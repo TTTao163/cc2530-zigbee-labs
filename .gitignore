@@ -1,0 +1,20 @@
+# IAR 编译产物
+Debug/
+settings/
+*.r51
+*.d51
+*.pbd
+*.hex
+*.lst
+*.map
+*.dep
+*.sim
+*.dni
+*.wsdt
+*.dbgdt
+*.cspy.bat
+*.bak
+
+# 系统文件
+Thumbs.db
+.DS_Store
